@@ -29,35 +29,7 @@ Me interesa crecer en el área IT como **Programador Trainee**, **Developer Juni
 
 ---
 
-## 🚀 Proyectos destacados
 
-### 💊 Sistema de Gestión de Medicamentos en C
-Aplicación para administrar medicamentos, controlar stock y calcular precio promedio.
-
-### 🎟 Sistema de Venta de Entradas para Recitales en C
-Sistema para registrar ventas, aplicar descuentos y generar reportes de recaudación.
-
-### 🏭 Sistema de Estadísticas de Personal para Fábrica en C
-Programa para procesar datos de empleados y calcular indicadores por sección.
-
-### 🐶 Sistema de Gestión de Ventas para Tienda de Mascotas en C
-Aplicación para registrar ventas, calcular kilos vendidos y porcentajes por presentación.
-
-### 🧪 Sistema de Producción y Control de Envases en C
-Sistema para calcular envases necesarios, costos y estadísticas de producción.
-
----
-
-## 📚 Actualmente aprendiendo
-
-- SQL
-- Bases de datos
-- Programación orientada a objetos
-- Python
-- Java
-- Desarrollo backend
-
----
 
 ## 🎯 Objetivo profesional
 
